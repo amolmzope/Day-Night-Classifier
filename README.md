@@ -17,24 +17,4 @@ Three different approaches have been used.
 - Baseline model - Basic model that uses average brightness from Value channel of HSV image as threshold to classify image. Achieves an accuracy of 88.5% on the validation set.
 
 ### Files
-- [baseline.ipynb](https://github.com/jayeshsaita/Day-Night-Classifier/blob/master/training/baseline.ipynb) - Training of baseline model
-
-
-#### Syntax for inference
-```
-python predict_file.py -i /path/to/image.jpg
-```
-Example:
-```
-python predict_all_models.py -i day_night_dataset/val/night/pexels-photo-2403202.jpeg
-```
-
-#### Sample Results
-These sample results are generated using the [predict_all_models.py](https://github.com/jayeshsaita/Day-Night-Classifier/blob/master/predict_all_models.py) file.
-
-![result1.png](result1.png)
-![result2.png](result2.png)
-![result5.png](result5.png)
-![result4.png](result4.png)
-![result6.png](result6.png)
-![result3.png](result3.png)
+- [Day-Night-Classifier.ipynb](https://github.com/amolmzope/Day-Night-Classifier/blob/main/Day%26Night%20Classifier.ipynb) - Training of baseline model
