@@ -12,7 +12,6 @@ The data for this project was scraped from [Pexels website](https://www.pexels.c
 The training set contains approximately 1000 images and validation set contains 200 images. An additional data cleaning phase was done manually to avoid noisy labels.
 
 ### Models
-Three different approaches have been used.
 - Baseline model - Basic model that uses average brightness from Value channel of HSV image as threshold to classify image. Achieves an accuracy of 88.5% on the validation set.
 
 ### Files
