@@ -1,1 +1,1 @@
-# Day-Night-Classifier
+# Day-Night-Classifier Baseline Model
