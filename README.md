@@ -5,7 +5,6 @@ This repo contains code and models trained to classify day and night images.
 - [numpy](https://pypi.org/project/numpy/)
 - [matplotlib](https://pypi.org/project/matplotlib/)
 - [OpenCV 3](https://pypi.org/project/opencv-python/3.4.9.31/)
-- [Pytorch](https://pytorch.org/get-started/locally/)
 
 ### Dataset
 The data for this project was scraped from [Pexels website](https://www.pexels.com/) using the [Download all images](https://addons.mozilla.org/en-US/firefox/addon/save-all-images-webextension/) extension for Mozilla Firefox.
