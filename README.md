@@ -12,7 +12,7 @@ The data for this project was scraped from [Pexels website](https://www.pexels.c
 The training set contains approximately 1000 images and validation set contains 200 images. An additional data cleaning phase was done manually to avoid noisy labels.
 
 ### Models
-- Baseline model - Basic model that uses average brightness from Value channel of HSV image as threshold to classify image. Achieves an accuracy of 88.5% on the validation set.
+- Baseline model - Basic model that uses average brightness from the Value channel of HSV image as threshold to classify image. Achieves an accuracy of 88.5% on the validation set.
 
 ### Files
 - [Day-Night-Classifier.ipynb](https://github.com/amolmzope/Day-Night-Classifier/blob/main/Day%26Night%20Classifier.ipynb) - Training of baseline model
